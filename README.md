@@ -38,7 +38,6 @@ O sistema permite controlar clientes, veículos, equipes, mecânicos, ordens de 
 ├── script_criacao.sql
 ├── inserts.sql
 ├── consultas.sql
-└── diagrama_oficina.drawio
 ```
 
 ---
