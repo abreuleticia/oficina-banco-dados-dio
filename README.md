@@ -31,7 +31,7 @@ O sistema permite controlar clientes, veículos, equipes, mecânicos, ordens de 
 # 📂 Estrutura do Projeto
 
 ```text
-📁 oficina-banco-dados
+📁 oficina-banco-dados-dio
 │
 ├── README.md
 ├── modelo_logico.png
